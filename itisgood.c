@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-std::cout <<"Hello World!"};
-return 0;
+   printf("Welcome To itisgood.ru!");
+   return 0;
 }
